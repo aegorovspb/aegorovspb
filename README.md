@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Andrew Egorov 
+<h1 align="center">Hi there, I'm Andrew
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Big data analyst and game designer. I'm living in Turkey at this moment.</h3>
 
