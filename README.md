@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Andrew
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Big data analyst and game designer. I'm living in Turkey at this moment.</h3>
+<h3 align="center">Big data analytics, with experience in data analysis in the construction industry. I live in Turkey at the moment.</h3>
 
-This is my repository with projects completed as part of the course "Data Analyst" from Yandex.The workshop. At the moment I am looking for a project or a job as a Data Analyst in the game industry, I am also considering proposals for the position of a game designer.
+This is my repository with projects completed as part of the "Data Analyst" course from Yandex.Workshop. At the moment I am looking for a project or job Big Data Analyst in any field, remotely or with the possibility of relocation.
 
-- graduated from Yandex courses.The workshop
-- has completed its own small project as a game designer
-- I love creative and challenging tasks
+- Experience as a data analyst
+- Graduated from Yandex.workshop courses
+- As a hobby, I ended my small game project
