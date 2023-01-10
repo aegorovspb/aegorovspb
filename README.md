@@ -12,5 +12,7 @@ Separately, I want to highlight the project and presentation that seemed to me t
 
 [Sales funnel analysis and evaluation of A/A/B testing results](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/08_aab_test_app.ipynb)
 
+[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+
 
 
