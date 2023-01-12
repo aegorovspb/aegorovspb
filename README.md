@@ -10,6 +10,7 @@ This is my repository with projects completed as part of the "Data Analyst" cour
 - Graduated from Yandex.workshop courses
 - As a hobby, I ended my small game project "Nuubs"
 
+<h3 align="left">Preferred method of contact Telegram @AndrewEgorov</h3>
 
 Separately, I want to highlight the project and presentation that seemed to me the most interesting:
 
