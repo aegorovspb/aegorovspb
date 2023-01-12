@@ -8,7 +8,7 @@ This is my repository with projects completed as part of the "Data Analyst" cour
 
 - Experience as a data analyst
 - Graduated from Yandex.workshop courses
-- As a hobby, I ended my small game project
+- As a hobby, I ended my small game project "Nuubs"
 
 
 Separately, I want to highlight the project and presentation that seemed to me the most interesting:
