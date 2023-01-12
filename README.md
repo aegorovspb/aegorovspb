@@ -15,7 +15,10 @@ Separately, I want to highlight the project and presentation that seemed to me t
 
 [Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
 
-<h3 align="left">Preferred method of contact Telegram @AndrewEgorov</h3>
+<h3 align="left">Сontacts:</h3>
+- Telegram @AndrewEgorov
+- Twitter  @AegorovSpb
+- E-mail   AEgorov.spb@gmail.com
 
 
 
