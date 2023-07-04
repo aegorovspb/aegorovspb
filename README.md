@@ -29,7 +29,7 @@ Separately, I want to highlight the project and presentation that seemed to me t
 - E-mail   AEgorov.spb@gmail.com
 
 ### Languages & Tools
-## #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator
+#### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator
 
 
 
