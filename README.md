@@ -17,18 +17,18 @@ Separately, I want to highlight the project and presentation that seemed to me t
 
 [Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation) 
 
-[Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+[Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
 
-[Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+[Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
 
 
-<h3 align="left">Сontacts:</h3>
+### Сontacts:
 
 - Telegram @AndrewEgorov
 - Twitter  @AegorovSpb
 - E-mail   AEgorov.spb@gmail.com
 
-<h3 align="left"> Languages & Tools </h3>
+### Languages & Tools
 ![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
