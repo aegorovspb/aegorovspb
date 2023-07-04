@@ -15,13 +15,26 @@ Separately, I want to highlight the project and presentation that seemed to me t
 
 [Sales funnel analysis and evaluation of A/A/B testing results](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/08_aab_test_app.ipynb)
 
-[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation) 
+
+[Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+
+[Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+
 
 <h3 align="left">Сontacts:</h3>
 
 - Telegram @AndrewEgorov
 - Twitter  @AegorovSpb
 - E-mail   AEgorov.spb@gmail.com
+
+<h3 align="left"> Languages & Tools </h3>
+![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
+![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
+![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
+![Docker](https://img.shields.io/badge/-Docker-69b5cc?style=for-the-badge&logo=docker)
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-69b5cc?style=for-the-badge&logo=apacheairflow)
 
 
 
