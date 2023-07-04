@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Andrew
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Big data analytics, with experience in data analysis in the construction industry.
-</h3>
+
+### Big data analytics, with experience in data analysis in the construction industry.
 
 This is my repository with projects completed as part of the "Data Analyst" course from Yandex.Workshop. At the moment I am looking for a project or job Big Data Analyst in any field, remotely or with the possibility of relocation.
 
@@ -29,12 +29,7 @@ Separately, I want to highlight the project and presentation that seemed to me t
 - E-mail   AEgorov.spb@gmail.com
 
 ### Languages & Tools
-![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
-![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
-![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
-![Docker](https://img.shields.io/badge/-Docker-69b5cc?style=for-the-badge&logo=docker)
-![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-69b5cc?style=for-the-badge&logo=apacheairflow)
+## #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator
 
 
 
