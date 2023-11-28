@@ -2,20 +2,30 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Big data analytics, with experience in data analysis in the construction industry.
+Больше десяти лет развития в sales и анализе данных. Начинал в роли менеджера по продажам в небольшой фирме, дошел до РОП. Далее прошел переобучение на "Бизнес аналитика" и "Аналитика данных".  Больше двух лет развивался в роли аналитика данных в крупной производственной компании, где одной из ключевых задач была разработка мобильного приложения для корпоративных и розничных клиентов.
+**Основные компетенции:** формирование и выгрузка данных, проведение А/В тестирования, анализ воронки продаж и юзабилити, построение диаграмм, создание сводных отчетов и презентаций.
+**Технические навыки:** SQL, Python, Git, MySQL, Jupiter.
 
-This is my repository with projects completed as part of the "Data Analyst" course from Yandex.Workshop. At the moment I am looking for a project or job Big Data Analyst in any field, remotely or with the possibility of relocation.
+- Большой опыт в анализе данных и бизнес анализе.
+- В 2022 году прошел полугодовое обучение от Яндекс Практикум по специальности "Аналитик данных".
+- I have a small pet project, it's a game Nuubs.org =)
 
-- Experience as a data analyst
-- Graduated from Yandex.workshop courses
-- As a hobby, I ended my small game project "Nuubs"
+Здесь Вы можете посмотреть [мои рекомендации и сертификаты](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
 
-Here you can see [my recommendations and certificate](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
+Отдельно хочу выделить два проекта выполненых в ходе обучения на Яндекс Практикуме, показавшихся мне наиболее интересными:
 
-Separately, I want to highlight the project and presentation that seemed to me the most interesting:
+[Рассчет CR, LTV, ROI. Анализ приложения Procrastinate Pro+](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/05_procrastinate_app_analysis.ipynb)
 
-[Sales funnel analysis and evaluation of A/A/B testing results](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/08_aab_test_app.ipynb)
+[Анализ мобильной игры "Космические братья"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/11_space_brothers.ipynb)
 
-[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation) 
+Выполнена презентация на основе проекта "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста.
+Презентация выполнения в подчеркнутом деловом стиле, ради этого были переработаны все используемые графики.
+
+[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+
+[Проект "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
+
+Две небольшие учебные презентаци по работе с BI-системами.
 
 [Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
 
@@ -25,8 +35,7 @@ Separately, I want to highlight the project and presentation that seemed to me t
 ### Сontacts:
 
 - Telegram @AndrewEgorov
-- Twitter  @AegorovSpb
-- E-mail   AEgorov.spb@gmail.com
+- E-mail   79602747708@mail.ru
 
 ### Languages & Tools
 #### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator
