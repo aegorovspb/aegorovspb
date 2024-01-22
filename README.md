@@ -22,31 +22,24 @@
 
 Здесь Вы можете посмотреть [мои рекомендации и сертификаты](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
 
-Отдельно хочу выделить два проекта выполненых в ходе обучения на Яндекс Практикуме, показавшихся мне наиболее интересными:
-
-[Рассчет CR, LTV, ROI. Анализ приложения Procrastinate Pro+](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/05_procrastinate_app_analysis.ipynb)
-
-[Проект "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
+Отдельно хочу выделить проект  и презентацию выполненные в ходе обучения на Яндекс Практикуме:
 
 
-Сделана презентация на основе данных учебного проекта "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста.
-Презентация выполнения в подчеркнутом деловом стиле, для этого были переработаны все используемые графики.
+- [Презентация "Воронка продаж"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+- [Проект "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
 
-[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
 
 Сделана презентация и проект в качестве тестового задания для ПАО "Газпром".
 Данные получены из открытых источников.
 
-[Презентация "Анализ перетоков электроэнергии между странами в 2023-2022 годах"](https://github.com/aegorovspb/energy/tree/main/energy_png)
-
-[Проект "Анализ перетоков электроэнергии между странами в 2023-2022 годах"](https://github.com/aegorovspb/energy/blob/main/energy_flow.ipynb)
+- [Презентация "Анализ перетоков электроэнергии между странами в 2023-2022 годах"](https://github.com/aegorovspb/energy/tree/main/energy_png)
+- [Проект "Анализ перетоков электроэнергии между странами в 2023-2022 годах"](https://github.com/aegorovspb/energy/blob/main/energy_flow.ipynb)
 
 
 Две небольшие учебные презентаци по работе с BI-системами.
 
-[Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
-
-[Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
+- [Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
+- [Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
 
 
 
