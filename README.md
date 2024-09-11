@@ -6,7 +6,7 @@
 
 ### Сontacts:
 
-- Telegram @AndrewEgorov
+- Telegram @AndrewEgorow
 - E-mail   79934927708@mail.ru
 
 ### Languages & Tools
