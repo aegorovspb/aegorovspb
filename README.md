@@ -7,7 +7,7 @@
 ### Сontacts:
 
 - Telegram @AndrewEgorow
-- E-mail   79934927708@mail.ru
+- E-mail   89313339297@mail.ru
 
 ### Languages & Tools
 #### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator
