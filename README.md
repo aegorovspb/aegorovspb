@@ -2,44 +2,50 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Big data analytics, with experience in data analysis in the construction industry.
-Больше десяти лет развития в sales и анализе данных. Начинал в роли менеджера по продажам в небольшой фирме, дошел до РОП. Далее прошел переобучение на "Бизнес аналитика" и "Аналитика данных".  Больше двух лет развивался в роли аналитика данных в крупной производственной компании, где одной из ключевых задач была разработка мобильного приложения для корпоративных и розничных клиентов.
+I am currently in St. Petersburg, Russia. I am considering work proposals
+with the possibility of full remote work or with the possibility of relocation: Cyprus, Georgia, Turkey.
+
+I started as a sales manager in a construction company, eventually becoming the head of sales
+department. After that I decided to give my carrier a new direction. I completed a retraining
+program provided by Yandex for Data Analytics. For more than two years, I developed as a data
+analyst at a Finnish manufacturing company Teknos (mobile application development). I had to
+stop because the company was forced to leave the Russian market.
+
+In 2023, I joined Energocontrol company as a Financial Analyst in the Bearings division,
+where my main task is optimizing warehouse stocks and developing the company's core strategy.
+
+**Key responsibilities:** optimization of warehouse stocks and logistics, conducting ABC analysis
+of products, RFM analysis of customers, monitoring competitor prices (parsing websites),
+analyzing advertising campaign effectiveness, analyzing sales funnels and usability, creating
+diagrams, generating summary reports and presentations.
 
 ### Сontacts:
 
 - Telegram @AndrewEgorow
-- E-mail   89313339297@mail.ru
+- E-mail   AEgorov.spb@gmail.com
 
 ### Languages & Tools
-#### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator
+#### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator, #Java (beginner level)
 
-**Основные компетенции:** формирование и выгрузка данных, проведение А/В тестирования, анализ воронки продаж и юзабилити, построение диаграмм, создание сводных отчетов и презентаций.
+Here you can see [my recommendations and certificates] (https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
 
-**Технические навыки:** SQL, Python, Git, MySQL, Jupiter.
+I would like to highlight the project and presentation completed during the training at the Yandex Workshop in 2022:
 
-- Большой опыт в анализе данных и бизнес анализе.
-- В 2022 году прошел полугодовое обучение от Яндекс Практикум по специальности "Аналитик данных".
-- I have a small pet project, it's a game Nuubs.org =)
+- [Presentation of the "Sales Funnel"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+- [Analysis of A/A/B test results](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
 
-Здесь Вы можете посмотреть [мои рекомендации и сертификаты](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
-
-Отдельно хочу выделить проект  и презентацию выполненные в ходе обучения на Яндекс Практикуме:
-
-
-- [Презентация "Воронка продаж"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
-- [Проект "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
-
-
-Сделана презентация и проект в качестве тестового задания для ПАО "Газпром".
-Данные получены из открытых источников.
-
-- [Презентация "Анализ перетоков электроэнергии между странами в 2023-2022 годах"](https://github.com/aegorovspb/energy/tree/main/energy_png)
-- [Проект "Анализ перетоков электроэнергии между странами в 2023-2022 годах"](https://github.com/aegorovspb/energy/blob/main/energy_flow.ipynb)
-
-
-Две небольшие учебные презентаци по работе с BI-системами.
+Two small educational presentations on working with BI systems made in 2022:
 
 - [Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
 - [Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
+
+The presentation and the project were made as a test task for "Gazprom" in 2023-2024:
+The data is obtained from open sources.
+
+- [Presentation "Analysis of electricity flows between countries in 2023-2022"](https://github.com/aegorovspb/energy/tree/main/energy_png)
+
+
+
 
 
 
