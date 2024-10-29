@@ -27,7 +27,7 @@ diagrams, generating summary reports and presentations.
 ### Languages & Tools
 #### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator, #Java (beginner level)
 
-Here you can see [my recommendations and certificates] (https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
+Here you can see [my recommendations and certificates](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
 
 I would like to highlight the project and presentation completed during the training at the Yandex Workshop in 2022:
 
