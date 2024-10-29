@@ -39,11 +39,6 @@ Two small educational presentations on working with BI systems made in 2022:
 - [Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
 - [Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
 
-The presentation and the project were made as a test task for "Gazprom" in 2023-2024:
-The data is obtained from open sources.
-
-- [Presentation "Analysis of electricity flows between countries in 2023-2022"](https://github.com/aegorovspb/energy/tree/main/energy_png)
-
 
 
 
