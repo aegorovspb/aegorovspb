@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Big data analytics, with experience in data analysis in the construction industry.
-I am currently in St. Petersburg, Russia. I am considering work proposals
-with the possibility of full remote work or with the possibility of relocation: Cyprus, Georgia, Turkey.
 
 I started as a sales manager in a construction company, eventually becoming the head of sales
 department. After that I decided to give my carrier a new direction. I completed a retraining
