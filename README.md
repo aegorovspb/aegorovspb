@@ -31,6 +31,8 @@
 - Telegram @AndrewEgorow
 - E-mail   89313339297@mail.ru
 
+### Проекты и сертификаты:
+
 - [Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/blob/main/stock_%20analysis.ipynb)
 
 - [Презентация "Воронка продаж"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
@@ -39,7 +41,9 @@
 
 - [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
-- [Мое резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
+### Резюме:
+
+- [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
 
 
 
