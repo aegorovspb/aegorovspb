@@ -31,24 +31,15 @@
 - Telegram @AndrewEgorow
 - E-mail   89313339297@mail.ru
 
-### Инструменты
-#### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator, #Java (beginner level)
+- [Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/blob/main/stock_%20analysis.ipynb)
 
-### Инструменты:
-#### #1С, #Python (Pandas, XlsxWriter, ML Sktime, beautifulsoup4), #VS Сode, #MySQL (CTE, Window Functions), #BI (QlikView, Power BI, Tableau), #Excel, #Adobe Illustrator, #Java (beginner level)
+- [Презентация "Воронка продаж"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
 
-Here you can see [my recommendations and certificates](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
+- [Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
 
-I would like to highlight the project and presentation completed during the training at the Yandex Workshop in 2022:
+- [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
-- [Presentation of the "Sales Funnel"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
-- [Analysis of A/A/B test results](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
-
-Two small educational presentations on working with BI systems made in 2022:
-
-- [Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
-- [Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
-
+- [Мое резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
 
 
 
