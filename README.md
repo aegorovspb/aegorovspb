@@ -1,29 +1,41 @@
 <h1 align="center">Hi there, I'm Andrew
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### Big data analytics, with experience in data analysis in the construction industry.
+### Специалист по анализу больших данных, с опытом работы в области анализа данных в промышленной отрасли.
 
-I started as a sales manager in a construction company, eventually becoming the head of sales
-department. After that I decided to give my carrier a new direction. I completed a retraining
-program provided by Yandex for Data Analytics. For more than two years, I developed as a data
-analyst at a Finnish manufacturing company Teknos (mobile application development). I had to
-stop because the company was forced to leave the Russian market.
+Начинал в роли менеджера по продажам в строительной фирме, дошел до РОП.
+В 2022 году прошел обучение от Яндекса по специальности "Аналитик данных". Больше двух
+лет развивался в роли аналитика в финской производственной компании "Текнос" (участвовал
+в разработке мобильного приложения).
+В 2023 году поступил на должность "Финансовый аналитик" в компанию "ЭНЕРГОКОНТРОЛЬ"
+(товарное направление "Подшипники"). В качестве финансового аналитика, мной были
+решены две основные задачи: оптимизирована система управления складскими запасами и
+автоматизирована система аналитики в компании.
 
-In 2023, I joined Energocontrol company as a Financial Analyst in the Bearings division,
-where my main task is optimizing warehouse stocks and developing the company's core strategy.
+**Цель:**
+Аналитик данных с опытом 3+ года, специализирующийся на обработке больших данных из разных источников, визуализации и построения предсказательных моделей.
 
-**Key responsibilities:** optimization of warehouse stocks and logistics, conducting ABC analysis
-of products, RFM analysis of customers, monitoring competitor prices (parsing websites),
-analyzing advertising campaign effectiveness, analyzing sales funnels and usability, creating
-diagrams, generating summary reports and presentations.
+**Инструменты:**
+1С, Python(Pandas, XlsxWriter, ML Sktime, beautifulsoup4), VS Сode, MySQL (CTE, Window Functions), BI (QlikView, Power BI, Tableau), Excel.
 
-### Сontacts:
+**Компетенции:**
+- Сбор, обработка, выгрузка информации из разных источников (ETL);
+- Оптимизация складских запасов и закупок;
+- Автоматизация планирования продаж и закупок;
+- Проведение «АБС/XYZ» анализа продукции, «RFM» анализ клиентов;
+- Анализ эффективности рекламной компании, анализ воронки продаж и юзабилити;
+- Построение диаграмм, создание сводных отчетов и презентаций.
+
+### Контакты:
 
 - Telegram @AndrewEgorow
-- E-mail   AEgorov.spb@gmail.com
+- E-mail   89313339297@mail.ru
 
-### Languages & Tools
+### Инструменты
 #### #Python, #SQL, #Jupiter Notebook, #Tableau, #Microsoft Power BI, #Adobe Illustrator, #Java (beginner level)
+
+### Инструменты:
+#### #1С, #Python (Pandas, XlsxWriter, ML Sktime, beautifulsoup4), #VS Сode, #MySQL (CTE, Window Functions), #BI (QlikView, Power BI, Tableau), #Excel, #Adobe Illustrator, #Java (beginner level)
 
 Here you can see [my recommendations and certificates](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/certificate_and_reference)
 
