@@ -34,7 +34,7 @@
 
 ### Проекты и сертификаты:
 
-- [Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/blob/main/stock_%20analysis.ipynb)
+- [Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/tree/main)
 
 - [Презентация "Воронка продаж"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
 
