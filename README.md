@@ -16,7 +16,7 @@
 Аналитик данных с опытом 3+ года, специализирующийся на обработке больших данных из разных источников, визуализации и построения предсказательных моделей.
 
 **Инструменты:**
-1С, Python(Pandas, XlsxWriter, ML Sktime, beautifulsoup4), VS Сode, MySQL (CTE, Window Functions), BI (QlikView, Power BI, Tableau), Excel.
+1С, Python(Pandas, XlsxWriter, ML Sktime, beautifulsoup4), Jupiter Notebook, Visual Studio Code, MySQL(CTE, Window Functions), BI(QlikView, Power BI, Tableau), Excel.
 
 **Компетенции:**
 - Сбор, обработка, выгрузка информации из разных источников (ETL);
