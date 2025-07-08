@@ -12,10 +12,10 @@
 решены две основные задачи: оптимизирована система управления складскими запасами и
 автоматизирована система аналитики в компании.
 
-## Цель:
+### Цель:
 Аналитик данных с опытом 3+ года, специализирующийся на обработке больших данных из разных источников, визуализации и построения предсказательных моделей.
 
-## Инструменты:
+### Инструменты:
 1С, Python(Pandas, XlsxWriter, ML Sktime, beautifulsoup4), Jupiter Notebook, Visual Studio Code, MySQL(CTE, Window Functions), BI(QlikView, Power BI, Tableau), Excel.
 
 ## Компетенции:
@@ -27,12 +27,12 @@
 - Составление технических заданий для IT специалистов;
 - Построение диаграмм, создание сводных отчетов и презентаций.
 
-### Контакты:
+## Контакты:
 
 - Telegram @AndrewEgorow
 - E-mail   89313339297@mail.ru
 
-### Проекты и сертификаты:
+## Проекты и сертификаты:
 
 - [Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/tree/main)
 
@@ -42,7 +42,7 @@
 
 - [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
-### Резюме:
+## Резюме:
 
 - [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
 
