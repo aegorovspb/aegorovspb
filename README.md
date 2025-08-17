@@ -40,6 +40,10 @@
 
 - [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
+## Рекомендательное письмо:
+
+- [Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
+
 ## Резюме:
 
 - [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
