@@ -45,7 +45,7 @@
 
 ### Резюме:
 
-- [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
+- [Резюме](https://github.com/aegorovspb/energy_control/blob/main/Andrew_Egorov.pdf)
 
 
 
